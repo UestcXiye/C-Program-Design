@@ -1,0 +1,24 @@
+﻿  源.cpp
+c:\users\81228\source\repos\码图作业：string类\码图作业：string类\cstring.h(18): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\81228\source\repos\码图作业：string类\码图作业：string类\cstring.h(25): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\81228\source\repos\码图作业：string类\码图作业：string类\cstring.h(47): error C2556: “char *strstr(const char *,const char *)”: 重载函数与“const char *strstr(const char *,const char *)”只是在返回类型上不同
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_string.h(79): note: 参见“strstr”的声明
+c:\users\81228\source\repos\码图作业：string类\码图作业：string类\cstring.h(47): error C2883: “strstr”: 函数声明与 using 声明引入的“strstr”冲突
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_string.h(79): note: 参见“strstr”的声明
+c:\users\81228\source\repos\码图作业：string类\码图作业：string类\cstring.h(47): error C2373: “strstr”: 重定义；不同的类型修饰符
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_string.h(79): note: 参见“strstr”的声明
+c:\users\81228\source\repos\码图作业：string类\码图作业：string类\cstring.h(48): warning C4551: 缺少参数列表的函数调用
+c:\users\81228\source\repos\码图作业：string类\码图作业：string类\cstring.h(55): error C3551: 如果使用尾随返回类型，则主要返回类型应该是单个类型说明符“自动”(而不是 "重载函数类型")
+c:\users\81228\source\repos\码图作业：string类\码图作业：string类\cstring.h(55): error C3613: “->”后缺少返回类型(假定为“int”)
+c:\users\81228\source\repos\码图作业：string类\码图作业：string类\cstring.h(55): error C2146: 语法错误: 缺少“)”(在标识符“mystr”的前面)
+c:\users\81228\source\repos\码图作业：string类\码图作业：string类\cstring.h(55): error C3646: “mystr”: 未知重写说明符
+c:\users\81228\source\repos\码图作业：string类\码图作业：string类\cstring.h(55): error C2059: 语法错误:“)”
+c:\users\81228\source\repos\码图作业：string类\码图作业：string类\cstring.h(55): error C2556: “char *strstr(const char *,const char *)”: 重载函数与“const char *strstr(const char *,const char *)”只是在返回类型上不同
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_string.h(79): note: 参见“strstr”的声明
+c:\users\81228\source\repos\码图作业：string类\码图作业：string类\cstring.h(55): error C2883: “strstr”: 函数声明与 using 声明引入的“strstr”冲突
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_string.h(79): note: 参见“strstr”的声明
+c:\users\81228\source\repos\码图作业：string类\码图作业：string类\cstring.h(55): error C2373: “strstr”: 重定义；不同的类型修饰符
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_string.h(79): note: 参见“strstr”的声明
+c:\users\81228\source\repos\码图作业：string类\码图作业：string类\cstring.h(56): warning C4551: 缺少参数列表的函数调用

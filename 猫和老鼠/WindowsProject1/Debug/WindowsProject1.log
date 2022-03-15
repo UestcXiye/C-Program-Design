@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  acllib.c
+c:\users\81228\source\repos\猫和老鼠\windowsproject1\acllib.c(52): warning C4005: “ACL_ASSERT”: 宏重定义
+  c:\users\81228\source\repos\猫和老鼠\windowsproject1\acllib.c(50): note: 参见“ACL_ASSERT”的前一个定义
+c:\users\81228\source\repos\猫和老鼠\windowsproject1\acllib.c(863): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?

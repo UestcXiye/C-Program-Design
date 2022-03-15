@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAPTOP-P25TKBR2</Machine>
+    <WindowsUser>81228</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>047ea3e0-9ada-44af-a9d2-2f3886c6317f</PackageIdentityName>
+    <PackageIdentityPublisher>CN=81228</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\81228\source\repos\圆周率的可视化\圆周率的可视化\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\81228\source\repos\圆周率的可视化\圆周率的可视化\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>42E694FAB02C90FF8C1063E11587EA02D3FDA5F88EDA8BFF5745EDA04B554573</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>047ea3e0-9ada-44af-a9d2-2f3886c6317f_1.0.0.0_neutral__v3tjp9a4hejh8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>047ea3e0-9ada-44af-a9d2-2f3886c6317f_v3tjp9a4hejh8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>047ea3e0-9ada-44af-a9d2-2f3886c6317f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=81228</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\81228\source\repos\圆周率的可视化\圆周率的可视化\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-31T08:03:47.988</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\81228\source\repos\圆周率的可视化\圆周率的可视化\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2019-06-25T10:37:04.689</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\81228\source\repos\圆周率的可视化\圆周率的可视化\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2018-12-19T08:50:02.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\81228\source\repos\圆周率的可视化\圆周率的可视化\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-12-19T08:50:02.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\81228\source\repos\圆周率的可视化\圆周率的可视化\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-12-19T08:50:02.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\81228\source\repos\圆周率的可视化\圆周率的可视化\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-12-19T08:50:02.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\81228\source\repos\圆周率的可视化\圆周率的可视化\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-12-19T08:50:02.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\81228\source\repos\圆周率的可视化\圆周率的可视化\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-12-19T08:50:02.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\81228\source\repos\圆周率的可视化\圆周率的可视化\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-12-19T08:50:02.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\81228\source\repos\圆周率的可视化\圆周率的可视化\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2019-06-25T10:45:40.435</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\81228\source\repos\圆周率的可视化\圆周率的可视化\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2019-06-25T10:37:04.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\81228\source\repos\圆周率的可视化\圆周率的可视化\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2019-12-31T08:03:47.715</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

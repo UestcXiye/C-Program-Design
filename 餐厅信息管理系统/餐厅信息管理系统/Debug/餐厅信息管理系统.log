@@ -1,0 +1,54 @@
+﻿  源.cpp
+c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(120): warning C4477: “fscanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“float *”
+  c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(120): note: 此参数用作缓冲区大小
+c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(120): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+  c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(120): note: 占位符和其参数预计 4 可变参数，但提供的却是 3 参数
+  c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(120): note: 缺失的可变参数 4 为格式字符串“%f”所需
+c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(117): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(189): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(251): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(256): error C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\time.h(476): note: 参见“ctime”的声明
+c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(267): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(280): error C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\time.h(476): note: 参见“ctime”的声明
+c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(296): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(313): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(345): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(358): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(366): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(371): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(395): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(413): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(434): warning C4474: fscanf: 格式字符串中传递的参数太多
+  c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(434): note: 占位符和其参数预计 1 可变参数，但提供的却是 3 参数
+c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(444): warning C4474: fscanf: 格式字符串中传递的参数太多
+  c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(444): note: 占位符和其参数预计 0 可变参数，但提供的却是 5 参数
+c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(427): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(430): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(434): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(444): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(461): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(463): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(465): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\81228\source\repos\餐厅信息管理系统\餐厅信息管理系统\源.cpp(480): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明

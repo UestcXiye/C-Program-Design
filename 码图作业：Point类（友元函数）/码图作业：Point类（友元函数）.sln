@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "码图作业：Point类（友元函数）", "码图作业：Point类（友元函数）\码图作业：Point类（友元函数）.vcxproj", "{6D24C780-BA64-4419-9153-6125951438CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D24C780-BA64-4419-9153-6125951438CE}.Debug|x64.ActiveCfg = Debug|x64
+		{6D24C780-BA64-4419-9153-6125951438CE}.Debug|x64.Build.0 = Debug|x64
+		{6D24C780-BA64-4419-9153-6125951438CE}.Debug|x86.ActiveCfg = Debug|Win32
+		{6D24C780-BA64-4419-9153-6125951438CE}.Debug|x86.Build.0 = Debug|Win32
+		{6D24C780-BA64-4419-9153-6125951438CE}.Release|x64.ActiveCfg = Release|x64
+		{6D24C780-BA64-4419-9153-6125951438CE}.Release|x64.Build.0 = Release|x64
+		{6D24C780-BA64-4419-9153-6125951438CE}.Release|x86.ActiveCfg = Release|Win32
+		{6D24C780-BA64-4419-9153-6125951438CE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDC7E819-32AA-4FA1-81C4-2B2A153BF029}
+	EndGlobalSection
+EndGlobal
